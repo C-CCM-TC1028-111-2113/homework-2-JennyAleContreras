@@ -11,7 +11,7 @@ def main():
        elif(sino=="n"):
            print('No cumples requisitos')
        else:
-           print('Respuesta incorrecta')  
+           print('No cumples requisitos')  
     else:
         print('No cumples requisitos')
 
