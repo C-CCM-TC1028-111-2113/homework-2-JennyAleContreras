@@ -12,7 +12,9 @@ def main():
            print('No cumples requisitos')
        else:
            print('Respuesta incorrecta')  
-    else:
+    elif(edad<18):
+        print('No cumples requisitos')
+    elif(edad<0):
         print('Respuesta incorrecta')
 
     pass
