@@ -15,7 +15,7 @@ def main():
     elif(edad<18):
         print('Respuesta incorrecta')
     else:
-        print('No cumples con requisitos')
+        print('a')
 
     pass
 
