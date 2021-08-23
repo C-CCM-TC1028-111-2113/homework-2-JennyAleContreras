@@ -14,9 +14,8 @@ def main():
            print('Respuesta incorrecta')  
     elif(edad<18):
         print('Respuesta incorrecta')
-    else:
-        print('a')
-
+        if(edad<0):
+            print('Respuesta in')
     pass
 
 if __name__ == '__main__':
