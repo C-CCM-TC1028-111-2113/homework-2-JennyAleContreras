@@ -14,8 +14,8 @@ def main():
            print('Respuesta incorrecta')  
     elif(edad<18):
         print('No cumples requisitos')
-        if(edad<0):
-            print('Respuesta incorrecta')
+    else:
+        print('Respuesta incorrecta')
 
     pass
 
