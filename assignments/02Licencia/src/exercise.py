@@ -9,7 +9,7 @@ def main():
        if(sino=="s"):
            print('Trámite de licencia concedido')
        elif(sino=="n"):
-           print('d')
+           print('No cumples requisitos')
        else:
            print('c')  
     elif(edad<18):
