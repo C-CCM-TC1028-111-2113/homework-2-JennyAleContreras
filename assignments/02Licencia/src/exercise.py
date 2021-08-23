@@ -11,9 +11,9 @@ def main():
        elif(sino=="n"):
            print('No cumples requisitos')
        else:
-           print('No cumples requisitos')  
+           print('Respuesta incorrecta')  
     else:
-        print('No cumples requisitos')
+        print('Respuesta incorrecta')
 
     pass
 
