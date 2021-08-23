@@ -12,10 +12,10 @@ def main():
            print('No cumples requisitos')
        else:
            print('Respuesta incorrecta')  
-    elif(edad<18):
+    else:
         print('Respuesta incorrecta')
         if(edad<0):
-            print('Respuesta in')
+            print('s')
     pass
 
 if __name__ == '__main__':
