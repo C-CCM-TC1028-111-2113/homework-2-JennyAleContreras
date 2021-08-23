@@ -11,7 +11,7 @@ def main():
        elif(sino=="n"):
            print('No cumples requisitos')
        else:
-           print('c')  
+           print('Respuesta incorrecta')  
     elif(edad<18):
         print('b')
     else:
