@@ -13,7 +13,7 @@ def main():
        else:
            print('Respuesta incorrecta')  
     else:
-        if(edad<0):
+        if(edad<=0):
             print('Respuesta incorrecta')
         else:
             print('No cumples requisitos')
