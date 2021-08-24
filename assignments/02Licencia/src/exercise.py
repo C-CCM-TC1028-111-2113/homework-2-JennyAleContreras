@@ -15,8 +15,8 @@ def main():
     else:
         if(edad<0):
             print('Respuesta incorrecta')
-            else:
-                print('No cumples requisitos')
+        else:
+            print('No cumples requisitos')
     pass
 
 if __name__ == '__main__':
